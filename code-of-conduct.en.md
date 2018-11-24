@@ -20,7 +20,7 @@ We value your attendance.
 
 ## Purpose of this document
 
-Frontend Meetup Budapest is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.
+Frontend Meetup Budapest is dedicated to providing a harassment-free community meetup experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for any meetup-related venue, including talks, workshops, parties, Twitter and other online media.
 
 Meetup participants violating these rules may be sanctioned or expelled from the meetup and future meetups at the discretion of the organizers.
 
