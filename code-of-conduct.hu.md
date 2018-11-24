@@ -47,7 +47,7 @@ We expect participants to follow these rules at meetup and workshop venues and m
 
 ## Mi számít zaklatásnak
 
-Harassment includes, but is not limited to:
+Zaklatásnak tekintjük például az alábbiakat:
 
  - Verbal or written comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion
  - Sexual images in public spaces
@@ -57,6 +57,8 @@ Harassment includes, but is not limited to:
  - Inappropriate physical contact
  - Unwelcome sexual attention
  - Advocating for, or encouraging, any of the above behaviour
+ 
+A lista nem teljes, a zaklatás fogalma nem korlátozódik csak a fentiekre, ezek a legjellemzőbb példák rá.
 
 ## Befogadó és barátságos fogalmazás, inkluzív nyelvezet
 
