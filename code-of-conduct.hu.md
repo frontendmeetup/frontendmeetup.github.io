@@ -58,9 +58,7 @@ Harassment includes, but is not limited to:
  - Unwelcome sexual attention
  - Advocating for, or encouraging, any of the above behaviour
 
-## Inclusive language
-
-## Inkluzív nyelvezet
+## Befogadó és barátságos fogalmazás, inkluzív nyelvezet
 
 In our commitment to a harassment-free and inclusive environment we strongly believe it's important to pay attention to harmful language patterns.
 
@@ -70,7 +68,7 @@ Words like "crazy", "dumb", "insane" or "lame" are examples of ableist language,
 
 To find out more about ableism and replacement terms please read [this guide](http://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html).
 
-### Szexista nyelvezet
+### Szexizmus
 
 Habár a magyar nyelvtan mentes a nemi névmásoktól, figyeljünk oda mikor egy vegyes nemű csoportnak, közönségnek szólunk, pl "srácok" - ezzel akarva/akaratlanul kizárjunk a többi nemet a beszélgetésből.
 
