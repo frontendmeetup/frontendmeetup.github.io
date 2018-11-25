@@ -86,6 +86,10 @@ In our commitment to a harassment-free and inclusive environment we strongly bel
 
 ### Ableism
 
+Szavak és kifejezések pl "béna" vagy "őrült" példák 
+csökkentve azon emberek értékét akik valami fogyatékossággal élnek együtt. 
+
+
 Words like "crazy", "dumb", "insane" or "lame" are examples of ableist language, devaluating people who have physical or mental disabilities. Its appearance often stems not from any intentional desire to offend, but from our innate sense of what it means to be normal. These words can be avoided by using more fitting, clearer descriptions of what we want to communicate.
 
 To find out more about ableism and replacement terms please read [this guide](http://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html).
