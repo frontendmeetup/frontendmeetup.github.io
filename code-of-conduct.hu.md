@@ -1,8 +1,8 @@
 # Magatartási Szabályzat
 
-All attendees, speakers, sponsors and volunteers at Frontend Meetup Budapest are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting coorporation from all participants to help ensuring a safe environment for everybody.
+A Frontend Meetup Budapest minden látogatójától, előadójától, támogatójától és önkéntesétől elvárt az alábbi magatartási szabályok kötelező érvényű betartása. A szervezők az esemény teljes időtartama alatt minden tőlük telhetőt megtesznek ezen  szabályok lehető legszigorúbb betartásáért. Minden résztvevőtől elvárt a teljeskörű együttműködés a szabályok betartása érdekében, így biztosítva a biztonságos, barátságos és befogadó környezetet minden résztvevő számára.
 
-Röviden: Ne légy bunkó. Legyél inkább tök jó fej!
+Röviden? Ne légy bunkó. Légy jófej!
 
 ---
 
@@ -14,9 +14,13 @@ Twitter: @_nec
 Email: nec@jsconfbp.com
 Phone (HU): +36 70 389 1288
 
-The meetup staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup.
+A szervezők szívesen segítenek kapcsolatba lépni a helyszín biztonsági szolgálatával, esetleg a rendőrséggel, segíthetnek kísérni, vagy bármi más módon a hozzájárulni a zaklatottak személyes biztonságérzetéhez.
 
-We value your attendance.
+_The meetup staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup._
+
+Számunkra nagyon értékes a részvételetek.
+
+_We value your attendance._
 
 
 ## Céljaink
