@@ -1,4 +1,4 @@
-# Magatartási Szabályzat
+# Magatartási Szabályzat - Code of Conduct
 
 A Frontend Meetup Budapest minden látogatójától, előadójától, támogatójától és önkéntesétől elvárt az alábbi magatartási szabályok kötelező érvényű betartása. A szervezők az esemény teljes időtartama alatt minden tőlük telhetőt megtesznek ezen  szabályok lehető legszigorúbb betartásáért. Minden résztvevőtől elvárt a teljeskörű együttműködés a szabályok betartása érdekében, így biztosítva a biztonságos, barátságos és befogadó környezetet minden résztvevő számára.
 
@@ -16,12 +16,7 @@ Phone (HU): +36 70 389 1288
 
 A szervezők szívesen segítenek kapcsolatba lépni a helyszín biztonsági szolgálatával, esetleg a rendőrséggel, segíthetnek kísérni, vagy bármi más módon a hozzájárulni a zaklatottak személyes biztonságérzetéhez.
 
-_The meetup staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup._
-
 Számunkra nagyon értékes a részvételetek.
-
-_We value your attendance._
-
 
 ## Céljaink
 
@@ -29,39 +24,23 @@ A Frontend Meetup Budapest határozott célja, hogy zaklatásmentes élményt bi
 
 A szabályokat megszegő résztvevőket a szervezőknek (mindenféle ellentételezés nélkül) jogában áll kizárni a további résztvételből és eltávolítani a helyszínről.
 
-_Frontend Meetup Budapest is dedicated to providing a harassment-free community meetup experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for any meetup-related venue, including talks, workshops, parties, Twitter and other online media._
-
-_Meetup participants violating these rules may be sanctioned or expelled from the meetup and future meetups at the discretion of the organizers._
-
 Az itt feltüntetett szabályok mindegyike a szponzorokra egyaránt, kivétel nélkül vonatkozik. Kiemelten igaz ez szexuálizált tartalmú képek, ruházat és egyéb anyagok megjelenítésére, valamint ilyen tevékenységek folytatására.
-
-_Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment._
 
 ## Hogyan jelezd ha gond van
 
 Ha bárki kapcsán azt érzed a személyes biztonságod veszélyeztetve van, vagy valami okból kirekesztve érzed magad, szólj nekünk amint lehet. Ha azt látod valaki ezen szabályoknak nem megfelelően cselekszik, kérjük szólj nekünk.
 
-_If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. If you see or hear someone do something, that might violate this Code of Conduct, please report it._
-
 Így jelezheted ha gond van:
 
-_You can make a personal report by:_
-
- - Contacting a staff member
- - Twitter direct messages: [our DMs on twitter are always open](https://twitter.com/frontendmeetup)
- - Email - but it might take up a few hours or a day before we can respond on email during or after the event.
+ - Beszélj egy szervezővel
+ - Twitter direkt üzenet: [our DMs on twitter are always open](https://twitter.com/frontendmeetup)
+ - Email - ehhez sajnos kell pár óra vagy talán nap is, mire oda jutunk hogy válaszoljunk
  
 ## Hogyan alkalmazzuk ezen szabályokat
 
 A zaklató magatartást folytató résztvevőktől elvárt annak felszólítás utáni azonnali beszüntetése.
 
-_Participants asked to stop any harassing behavior are expected to comply immediately._
-
-_If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the meetup and future events._
-
-Amennyiben egy résztvevő a konferencia területén zaklató magatartást tanusít, a szervezőknek jogában áll saját belátásuk szerint kezelni annak érdekében hogy a többi résztvevő biztonságban érezze magát, ide sorolva egyebek közt a résztvevő szóbeli figyelmeztetését, a meetup helyszínéről való azonnali  kizárását és eltávolítását, valamint a jövőbeli meetupokra a belépés megtagadását.
-
-_We expect participants to follow these rules at meetup and workshop venues and meetup-related social events._
+Amennyiben egy résztvevő a konferencia területén zaklató magatartást tanusít, a szervezőknek jogában áll saját belátásuk szerint kezelni annak érdekében hogy a többi résztvevő biztonságban érezze magát, ide sorolva egyebek közt a résztvevő szóbeli figyelmeztetését, a meetup helyszínéről való azonnali kizárását és eltávolítását, valamint a jövőbeli meetupokra a belépés megtagadását.
 
 Minden résztvevőtől elvárjuk, hogy ezen szabályokat a meetup területén, workshopokon, a meetuphoz köthető egyéb szociális eseményeken és online felületeken egyaránt minden körülmények közt, maradéktalanul betartsa.
 
@@ -82,25 +61,16 @@ A lista nem teljes, a zaklatás fogalma nem korlátozódik csak a fentiekre, eze
 
 ## Befogadó és barátságos fogalmazás, inkluzív nyelvezet
 
-In our commitment to a harassment-free and inclusive environment we strongly believe it's important to pay attention to harmful language patterns.
+Ahhoz, hogy zaklatástól mentes és befogadó környeztet biztosítsunk a résztvevőknek, fontos hogy odafigyeljünk és elkerüljünk bizonyos nyelvi fordulatokat.
 
-### Ableism
+### Fogyatékkal élőkkel szembeni diszkrimináció
 
-Szavak és kifejezések pl "béna" vagy "őrült" példák 
-csökkentve azon emberek értékét akik valami fogyatékossággal élnek együtt. 
-
-
-Words like "crazy", "dumb", "insane" or "lame" are examples of ableist language, devaluating people who have physical or mental disabilities. Its appearance often stems not from any intentional desire to offend, but from our innate sense of what it means to be normal. These words can be avoided by using more fitting, clearer descriptions of what we want to communicate.
-
-To find out more about ableism and replacement terms please read [this guide](http://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html).
+Szavak és kifejezések pl "béna" vagy "őrült" példák arra a jelenségre amit "ableizmus"-nak, vagy fogyatékkal élőkkel szembeni diszkriminációnak nevezünk. Ezek a kifejezések pejoratív jelzőkként használva csökkenthetik azon emberek értékét akik valami fogyatékossággal élnek együtt. Ez nagyon gyakran nem tudatos, és nem bántó szándékkal használt, viszont bánthat olyasvalakit aki fogyatékossággal él, vagy az ismerősi körében, családjában él valaki akire utalhat. Egyszerűbb és tisztább ha odafigyelünk kicsit rá és más kifejezést használunk adott szituációban.
 
 ### Szexizmus
 
-Habár a magyar nyelvtan mentes a nemi névmásoktól, figyeljünk oda mikor egy vegyes nemű csoportnak, közönségnek szólunk, pl "srácok" - ezzel akarva/akaratlanul kizárjunk a többi nemet a beszélgetésből.
+Habár a magyar nyelvtan mentes a nemi névmásoktól, figyeljünk oda mikor egy vegyes nemű csoportnak, közönségnek szólunk, pl "srácok", "urak" - ezzel akarva-akaratlanul kizárhatjuk a többi nemet a beszélgetésből.
 
 ## Forrásmegjelölés
 
 Ezen szabályok a [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) Magatartási Szabályain alapulnak, valamint [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct) munkáin, és a [Conference Code of Conduct](http://confcodeofconduct.com/) oldalon.
-
-
-_This Code of Conduct was based on [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the work of [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct), and [Conference Code of Conduct](http://confcodeofconduct.com/)._
