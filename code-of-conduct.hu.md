@@ -25,17 +25,27 @@ _We value your attendance._
 
 ## Céljaink
 
-Frontend Meetup Budapest is dedicated to providing a harassment-free community meetup experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for any meetup-related venue, including talks, workshops, parties, Twitter and other online media.
+A Frontend Meetup Budapest határozott célja, hogy zaklatásmentes élményt biztosítson minden látogatónak, nemre, szexuális orientációra, fogyatékosságra, megjelenésre, testfelépítésre, rasszra, vallásra való tekintet nélkül egyaránt. A meetup látogatóinak bárminemű zaklatása nem tolerált tevékenységnek minősül, ide sorolva a szexuális töltetű megjegyzéseket és megnyilvánulásokat is. Ezen megnyilvánulások semelyike sem helyénvaló vagy tolerált a konferencia keretei között, értve ezalatt a konferencia helyszínét, előadásait, workshopokat, záróeseményeket, Twittert és egyéb online felületeket. 
 
-Meetup participants violating these rules may be sanctioned or expelled from the meetup and future meetups at the discretion of the organizers.
+A szabályokat megszegő résztvevőket a szervezőknek (mindenféle ellentételezés nélkül) jogában áll kizárni a további résztvételből és eltávolítani a helyszínről.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+_Frontend Meetup Budapest is dedicated to providing a harassment-free community meetup experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for any meetup-related venue, including talks, workshops, parties, Twitter and other online media._
+
+_Meetup participants violating these rules may be sanctioned or expelled from the meetup and future meetups at the discretion of the organizers._
+
+A szponzorok szintén alanyai ezen szabályoknak. Egy szponzortol sem elfogadható a szexista ábrázolás, játék vagy bármi más szponzorációs anyag.
+
+_Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment._
 
 ## Hogyan jelezd ha gond van
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. If you see or hear someone do something, that might violate this Code of Conduct, please report it.
+Ha bárki kapcsán azt érzed a személyes biztonságod veszélyeztetve van, vagy valami okból kirekesztve érzed magad, szólj nekünk amint lehet. Ha azt látod valaki ezen szabályoknak nem megfelelően cselekszik, kérjük szólj nekünk.
 
-You can make a personal report by:
+_If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. If you see or hear someone do something, that might violate this Code of Conduct, please report it._
+
+Így jelezheted ha gond van:
+
+_You can make a personal report by:_
 
  - Contacting a staff member
  - Twitter direct messages: [our DMs on twitter are always open](https://twitter.com/frontendmeetup)
