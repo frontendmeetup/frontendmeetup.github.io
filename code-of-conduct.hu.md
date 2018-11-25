@@ -8,7 +8,7 @@ Röviden? Ne légy bunkó. Légy jófej!
 
 ## Segíthetünk?
 
-Contact Szabolcs!
+Keresd Szabolcsot!
 
 Twitter: @_nec  
 Email: nec@jsconfbp.com  
@@ -69,14 +69,14 @@ Minden résztvevőtől elvárjuk, hogy ezen szabályokat a meetup területén, w
 
 Zaklatásnak tekintjük például az alábbiakat:
 
- - Verbal or written comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion
- - Sexual images in public spaces
- - Deliberate intimidation, stalking, or following
- - Harassing photography or recording
- - Sustained disruption of talks or other events
- - Inappropriate physical contact
- - Unwelcome sexual attention
- - Advocating for, or encouraging, any of the above behaviour
+ - Szóbeli vagy írásos lenéző, megalázó vagy elnyomásra utaló megjegyzések más nemére, nemi identitására vagy kifejezésére, szexuális irányultságára, fogyatékosságára, küllemére, testére, rasszára, korára vagy vallására
+ - Szexuális tartalmú képek nyilvános területeken
+ - Szándékos megfélemlítés, követés vagy üldözés
+ - Zaklató fotózás vagy videózás
+ - Az előadások vagy workshopok megzavarása
+ - Alkalmatlan vagy zavaró fizikai érintés
+ - Nemkívánatos szexuális közeledés
+ - Felbujtás vagy bátorítás a fenti viselkedésformákra
  
 A lista nem teljes, a zaklatás fogalma nem korlátozódik csak a fentiekre, ezek a legjellemzőbb példák rá.
 
