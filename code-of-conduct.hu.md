@@ -10,8 +10,8 @@ Röviden? Ne légy bunkó. Légy jófej!
 
 Contact Szabolcs!
 
-Twitter: @_nec
-Email: nec@jsconfbp.com
+Twitter: @_nec  
+Email: nec@jsconfbp.com  
 Phone (HU): +36 70 389 1288
 
 A szervezők szívesen segítenek kapcsolatba lépni a helyszín biztonsági szolgálatával, esetleg a rendőrséggel, segíthetnek kísérni, vagy bármi más módon a hozzájárulni a zaklatottak személyes biztonságérzetéhez.
