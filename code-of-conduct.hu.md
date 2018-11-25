@@ -33,7 +33,7 @@ _Frontend Meetup Budapest is dedicated to providing a harassment-free community 
 
 _Meetup participants violating these rules may be sanctioned or expelled from the meetup and future meetups at the discretion of the organizers._
 
-A szponzorok szintén alanyai ezen szabályoknak. Egy szponzortol sem elfogadható a szexista ábrázolás, játék vagy bármi más szponzorációs anyag.
+Az itt feltüntetett szabályok mindegyike a szponzorokra egyaránt, kivétel nélkül vonatkozik. Kiemelten igaz ez szexuálizált tartalmú képek, ruházat és egyéb anyagok megjelenítésére, valamint ilyen tevékenységek folytatására.
 
 _Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment._
 
@@ -53,11 +53,17 @@ _You can make a personal report by:_
  
 ## Hogyan alkalmazzuk ezen szabályokat
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+A zaklató magatartást folytató résztvevőktől elvárt annak felszólítás utáni azonnali beszüntetése.
 
-If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the meetup and future events.
+_Participants asked to stop any harassing behavior are expected to comply immediately._
 
-We expect participants to follow these rules at meetup and workshop venues and meetup-related social events.
+_If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the meetup and future events._
+
+Amennyiben egy résztvevő a konferencia területén zaklató magatartást tanusít, a szervezőknek jogában áll saját belátásuk szerint kezelni annak érdekében hogy a többi résztvevő biztonságban érezze magát, ide sorolva egyebek közt a résztvevő szóbeli figyelmeztetését, a meetup helyszínéről való azonnali  kizárását és eltávolítását, valamint a jövőbeli meetupokra a belépés megtagadását.
+
+_We expect participants to follow these rules at meetup and workshop venues and meetup-related social events._
+
+Minden résztvevőtől elvárjuk, hogy ezen szabályokat a meetup területén, workshopokon, a meetuphoz köthető egyéb szociális eseményeken és online felületeken egyaránt minden körülmények közt, maradéktalanul betartsa.
 
 ## Mi számít zaklatásnak
 
@@ -89,5 +95,8 @@ To find out more about ableism and replacement terms please read [this guide](ht
 Habár a magyar nyelvtan mentes a nemi névmásoktól, figyeljünk oda mikor egy vegyes nemű csoportnak, közönségnek szólunk, pl "srácok" - ezzel akarva/akaratlanul kizárjunk a többi nemet a beszélgetésből.
 
 ## Forrásmegjelölés
+
+Ezen szabályok a [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) szabályain alapulnak, valamint [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct) munkáin, és a [Conference Code of Conduct](http://confcodeofconduct.com/) oldalon.
+
 
 This Code of Conduct was based on [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the work of [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct), and [Conference Code of Conduct](http://confcodeofconduct.com/).
