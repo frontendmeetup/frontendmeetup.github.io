@@ -96,7 +96,7 @@ Habár a magyar nyelvtan mentes a nemi névmásoktól, figyeljünk oda mikor egy
 
 ## Forrásmegjelölés
 
-Ezen szabályok a [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) szabályain alapulnak, valamint [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct) munkáin, és a [Conference Code of Conduct](http://confcodeofconduct.com/) oldalon.
+Ezen szabályok a [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) Magatartási Szabályain alapulnak, valamint [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct) munkáin, és a [Conference Code of Conduct](http://confcodeofconduct.com/) oldalon.
 
 
-This Code of Conduct was based on [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the work of [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct), and [Conference Code of Conduct](http://confcodeofconduct.com/).
+_This Code of Conduct was based on [JSConf EU](https://2018.jsconf.eu), [CSSConf / JSConf AU](http://2018.jsconfau.com/), [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), the work of [Valerie Aurora](https://frameshiftconsulting.com/code-of-conduct-training/), [WeAllJS](https://wealljs.org/code-of-conduct), and [Conference Code of Conduct](http://confcodeofconduct.com/)._
